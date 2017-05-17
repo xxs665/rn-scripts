@@ -3,18 +3,20 @@
   使用`create-react-native-app`工具，创建自定义`react-native`开发脚手架
 
 ## 使用
-  . 安装`create-react-native-app`
+  安装`create-react-native-app`
 ```sh
 $ npm install -g create-react-native-app
 ```
-  . 获取最新版本url
+  获取最新版本url
 ```sh
 $ npm view rn-scripts dist.tarball
-````
-  . 创建工程
+```
+
+  创建工程
 ```sh
 $ create-react-native-app [project-name] --scripts-version [rn-scripts url]
-````
+```
+
 ## 推荐使用的库
 
 ### UI框架
