@@ -1,0 +1,30 @@
+{
+  "extends": [ "airbnb" ],
+  "plugins": [ "react", "jsx-a11y", "import" ],
+  "parser": "babel-eslint",
+  "parserOptions": {
+      "ecmaFeatures": {
+          "jsx": true,
+          "modules": true
+      }
+  },
+  "rules": {
+    "react/jsx-filename-extension": ["error", { "extensions": [".js", ".jsx"] }],
+    "object-property-newline": ["off", { "allowMultiplePropertiesPerLine": true }],
+    "react/forbid-prop-types": ["warn", { "forbid": ['any', 'array'] }],
+    "camelcase": ["warn"],
+    "import/no-unresolved": ["warn"],
+    "no-underscore-dangle": ["warn"],
+    "react/no-string-refs": ["warn"],
+    "react/jsx-no-bind": ["warn"],
+    "no-shadow": ["warn"],
+    "react/prefer-stateless-function": ["off"],
+    # "no-unused-vars": ["warn"],
+    "import/no-named-as-default": ["off"],
+    "arrow-body-style": ["warn"],
+    "no-unused-vars": ["warn"],
+    "react/prop-types": ["warn"],
+    "prefer-template": ["warn"],
+    "react/jsx-first-prop-new-line": ["warn"],
+  },
+}
