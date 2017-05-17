@@ -35,9 +35,9 @@ $ npm run eject
 
 
 ### 常用控件：
-  1. 导航栏[react-navigation](https://github.com/react-community/react-navigation)
-  2. 图片查看[react-native-lightbox](https://github.com/oblador/react-native-lightbox)
-  3. 粘性头部[react-sticky](https://github.com/captivationsoftware/react-sticky)
-  4. 视差滑动视图[react-native-parallax-scroll-view](https://github.com/jaysoo/react-native-parallax-scroll-view)
-  5. 图标[react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
-  6. 数据库[rxdb](https://github.com/pubkey/rxdb)
+  1. 导航栏 [react-navigation](https://github.com/react-community/react-navigation)
+  2. 图片查看 [react-native-lightbox](https://github.com/oblador/react-native-lightbox)
+  3. 粘性头部 [react-sticky](https://github.com/captivationsoftware/react-sticky)
+  4. 视差滑动视图 [react-native-parallax-scroll-view](https://github.com/jaysoo/react-native-parallax-scroll-view)
+  5. 图标 [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
+  6. 数据库 [rxdb](https://github.com/pubkey/rxdb)
