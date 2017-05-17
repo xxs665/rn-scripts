@@ -28,10 +28,10 @@ $ npm run eject
 ## 推荐使用的库
 
 ### UI框架
-  1. [NativeBase](`https://github.com/GeekyAnts/NativeBase`)
-  2. [react-native-elements](`https://github.com/react-native-training/react-native-elements`)
-  3. [shoutem-ui](`https://github.com/shoutem/ui`)
-  4. [react-native-material-design](`https://github.com/react-native-material-design/react-native-material-design`)
+  1. [NativeBase](https://github.com/GeekyAnts/NativeBase)
+  2. [react-native-elements](https://github.com/react-native-training/react-native-elements)
+  3. [shoutem-ui](https://github.com/shoutem/ui)
+  4. [react-native-material-design](https://github.com/react-native-material-design/react-native-material-design)
 
 
 ### 常用控件：
