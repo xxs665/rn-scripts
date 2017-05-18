@@ -46,13 +46,21 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 var DEFAULT_DEPENDENCIES = {
   expo: '^16.0.0',
   react: '16.0.0-alpha.6',
-  'react-native': '^0.43.4'
+  'react-native': '^0.43.4',
+  "react-navigation": "^1.0.0-beta.9"
 };
 
 // TODO figure out how this interacts with ejection
 var DEFAULT_DEV_DEPENDENCIES = {
   'jest-expo': '^0.4.0',
-  'react-test-renderer': '16.0.0-alpha.6'
+  'react-test-renderer': '16.0.0-alpha.6',
+  "babel-eslint": "^7.1.1",
+  "eslint": "^3.12.2",
+  "eslint-config-airbnb": "^13.0.0",
+  "eslint-config-airbnb-base": "7.1.0",
+  "eslint-plugin-import": "^2.2.0",
+  "eslint-plugin-jsx-a11y": "^2.2.3",
+  "eslint-plugin-react": "^6.8.0"
 };
 
 module.exports = function () {
