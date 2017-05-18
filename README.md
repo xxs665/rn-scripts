@@ -21,6 +21,7 @@ $ create-react-native-app [project-name] --scripts-version [rn-scripts url]
 
 生成平台文件夹
 ```sh
+$ cd [project]
 $ npm run eject
 ```
 
