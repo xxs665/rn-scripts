@@ -5,8 +5,8 @@ export class TestView extends Component {
   static navigationOptions = ({ navigation }) => {
     const { state: { params } } = navigation;
     return {
-      title: `hello ${params.name}`,
-      // header: null,
+      // title: `hello ${params.name}`,
+      title: `hello`,
     };
   }
   render() {
