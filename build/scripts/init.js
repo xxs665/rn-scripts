@@ -47,7 +47,11 @@ var DEFAULT_DEPENDENCIES = {
   expo: '^16.0.0',
   react: '16.0.0-alpha.6',
   'react-native': '^0.43.4',
-  "react-navigation": "^1.0.0-beta.9"
+  "react-navigation": "^1.0.0-beta.9",
+  "react-redux": "^5.0.5",
+  "redux": "^3.6.0",
+  "redux-logger": "^3.0.6",
+  "redux-thunk": "^2.2.0",
 };
 
 // TODO figure out how this interacts with ejection
